@@ -35,10 +35,11 @@ This is content of my third article.
 
 function createTemplate(data)
 {
-    var title=data.title;
-    var heading=data.heading;
-    var content=data.content;
-    var date=data.date;
+    var title = data.title;
+     var date = data.date;
+    var heading = data.heading;
+    var content = data.content;
+   
     
 var htmlTemplate=`<html>
 <head>
