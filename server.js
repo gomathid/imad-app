@@ -19,8 +19,8 @@ This is content of my first article...This is content of my first article...This
 This is content of my first article...This is content of my first article...This is content of my first article...This is content of my first article...This is content of my first article...
 </p>`
 },
-articleOne={},
-articleOne={}
+articleTwo={},
+articleThree={}
 };
 
 function createTemplate(data)
