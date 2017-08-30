@@ -19,7 +19,12 @@ This is content of my first article...This is content of my first article...This
 This is content of my first article...This is content of my first article...This is content of my first article...This is content of my first article...This is content of my first article...
 </p>`
 },
-articleTwo:{},
+articleTwo:{ title:'Article Two | Gomathi',
+    heading:'Article Two',
+    date:'Sep 10, 2016',
+    content:`<p>
+This is content of my second article.
+</p>`},
 articleThree:{}
 };
 
